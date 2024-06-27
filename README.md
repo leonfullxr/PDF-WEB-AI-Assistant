@@ -72,33 +72,7 @@ To run the Personal AI Assistant application, follow these steps:
     - Open your web browser and navigate to the URL provided by Streamlit (typically `http://localhost:8501`).
     - Use the sidebar to input URLs or upload a PDF.
     - Use the query interface to ask questions about the processed data or summarize a PDF.
-
-## Detailed Code Structure
-
-### `main.py`
-
-The main entry point for the application. Sets up the Streamlit interface and integrates the different components.
-
-### `settings.py`
-
-Contains the Streamlit setup configurations, including page title, layout, and sidebar initial state.
-
-### `url_processing.py`
-
-Handles the URL input, loading, processing, and embedding.
-
-### `pdf_processing.py`
-
-Handles the PDF upload, text extraction, processing, and embedding.
-
-### `query_interface.py`
-
-Manages the query interface where users can ask questions about the processed URLs and PDFs.
-
-### `requirements.txt`
-
-Lists all the necessary Python packages required to run the application.
-
+    
 ---
 
 Feel free to customize the repository URL and any other details specific to your project setup.
