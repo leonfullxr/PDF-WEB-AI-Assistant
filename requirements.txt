@@ -4,3 +4,6 @@ langchain
 openai
 faiss-cpu
 pandas
+tiktoken
+networkx
+unstructured
