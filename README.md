@@ -49,7 +49,7 @@ To run the Personal AI Assistant application, follow these steps:
 1. **Clone the Repository**
 
     ```sh
-    git clone https://github.com/leonfullxr/PDF-WEBAI-Assistant.git
+    git clone https://github.com/leonfullxr/PDF-WEB-AI-Assistant.git
     cd personal-ai-assistant
     ```
 
